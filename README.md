@@ -7,3 +7,6 @@ To execute the client run:
 python src/main.py torrent_file
 
 You will need to pip install **bcoding**.
+
+![Image Description](/img-description.png)
+
