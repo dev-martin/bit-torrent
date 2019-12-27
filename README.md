@@ -4,6 +4,6 @@ Basic implementation of a BitTorrent client in Python with a few libraries. Uses
 To execute the client run:
 (You can find sample torrent files in the torrents/ directory.)
 
-python src/main.py <torrent file>
+python src/main.py torrent_file
 
 You will need to pip install **bcoding**.
